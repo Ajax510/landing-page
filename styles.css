@@ -42,14 +42,16 @@ h2 {
   border: 2px solid black;
 }
 
-.icons,  img {
+.icons,
+img {
   width: 180px;
-  border: 2px solid black
+  border: 2px solid black;
   height: 180px;
   margin: 20px;
 }
 
-.projects, img {
+.projects,
+img {
   width: 300px;
   height: 300px;
   display: inline;
